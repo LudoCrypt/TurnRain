@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3276763575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88ad27fef81b90b0aa462ad444de5c9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/shaders 1.9.03/TRDeathRain.shader
+Dependencies: []
