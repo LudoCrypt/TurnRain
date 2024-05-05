@@ -54,6 +54,8 @@ v2f vert(appdata_full v) {
 	return o;
 }
 
+// https://www.shadertoy.com/view/lcdSzS
+
 half4 frag(v2f i) : SV_Target {
 	float2 uv = i.uv;
 	float2 scrPos = i.scrPos;
